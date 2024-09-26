@@ -56,18 +56,23 @@ export default function Weather() {
       <div className="weather-forecast"></div>
       <footer>
         Coded by
-        <a href="https://github.com/katel-web" target="_blank">
+        <a href="https://github.com/katel-web" target="_blank" rel="noreferrer">
           Kate Lemass
         </a>
         , is open-sourced on
         <a
           href="https://github.com/katel-web/WeatherAppProject"
           target="_blank"
+          rel="noreferrer"
         >
           GitHub
         </a>
         and hosted on
-        <a href="https://kates-weather-app.netlify.app/" target="_blank">
+        <a
+          href="https://kates-weather-app.netlify.app/"
+          target="_blank"
+          rel="noreferrer"
+        >
           Netlify
         </a>
       </footer>
