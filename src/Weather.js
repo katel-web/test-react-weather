@@ -61,7 +61,7 @@ export default function Weather() {
         </a>
         , is open-sourced on
         <a
-          href="https://github.com/katel-web/WeatherAppProject"
+          href="https://github.com/katel-web/react-weather-app"
           target="_blank"
           rel="noreferrer"
         >
@@ -69,7 +69,7 @@ export default function Weather() {
         </a>
         and hosted on
         <a
-          href="https://kates-weather-app.netlify.app/"
+          href="https://master--react-weather-app-kate.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
